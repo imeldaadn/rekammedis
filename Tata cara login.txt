@@ -1,0 +1,7 @@
+Login untuk admin
+Username : admin
+Password : admin
+
+Login untuk user pasien
+- User bisa regis terlebih dahulu untuk membuat akun lalu login
+- Jika telah memiliki akun bisa langsung login
